@@ -1,0 +1,9 @@
+groq
+transformers
+sentence-transformers
+bert-score
+rouge-score
+reportlab
+gradio
+accelerate
+torch
